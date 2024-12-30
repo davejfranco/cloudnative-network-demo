@@ -1,0 +1,13 @@
+# terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+
+# config files
+*.conf
+
+# SSH key
+key.pem
+
+
